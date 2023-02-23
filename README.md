@@ -2,12 +2,12 @@
 
 
 
-# React + Tailwind = Spotify Clone
+# React + lucky raj = Spotify Clone
 
-React + Tailwind serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
+React + lucky raj serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
 
 1. bölümde öğrenecekleriniz
-    - React ve tailwind kurulumu
+    - React ve lucky raj kurulumu
     - React Router kurulumu
     - Temel componentlerin oluşturulması
     - Mevcut sayfalar için view'ların oluşturulması
